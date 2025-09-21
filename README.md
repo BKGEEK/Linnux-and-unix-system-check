@@ -4,5 +4,7 @@
 # 使用方法
 直接运行
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/BKGEEK/Linnux-and-unix-system-check/refs/heads/main/system-check.sh)"
+
 或者
+
 sudo bash -c "$(wget -fsSL https://raw.githubusercontent.com/BKGEEK/Linnux-and-unix-system-check/refs/heads/main/system-check.sh)"
