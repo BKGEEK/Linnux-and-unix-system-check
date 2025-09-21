@@ -8,4 +8,4 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/BKGEEK/Linnux-and-u
 
 或者
 
-sudo bash -c "$(wget -fsSL https://raw.githubusercontent.com/BKGEEK/Linnux-and-unix-system-check/refs/heads/main/system-check.sh)"
+sudo bash -c "$(wget -q0 - https://raw.githubusercontent.com/BKGEEK/Linnux-and-unix-system-check/refs/heads/main/system-check.sh)"
